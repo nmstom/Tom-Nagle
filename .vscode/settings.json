@@ -1,3 +1,4 @@
 {
-    "dotnet.defaultSolution": "Hello World.sln"
+    "dotnet.defaultSolution": "Hello World.sln",
+    "java.debug.settings.onBuildFailureProceed": true
 }
